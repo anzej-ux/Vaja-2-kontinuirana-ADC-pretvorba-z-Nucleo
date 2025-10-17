@@ -18,4 +18,18 @@ i) Pravi čas vzorčenja se nato poveča še za 12 ciklov zaradi procesa samega.
 vzorčenja tvz v mikro sekundah?
 (enačba: tvz = t'vz_ciklih / fpreskalriana)? ODGOVOR: 61,9uS
 
+SLIKA PINOUT:
+<img width="694" height="584" alt="image" src="https://github.com/user-attachments/assets/f89bb02b-860d-41e5-8018-1bdac4a575a0" />
+
+
+POSNETEK DELOVANJA:
+<img width="500" height="281" alt="image" src="https://github.com/user-attachments/assets/9ff91126-4813-413b-bcca-d6d3b86bd5b4" />
+
+FOTOGRAFIJA IZBRANEGA POTENCIOMETRA:
+<img width="3024" height="4032" alt="image" src="https://github.com/user-attachments/assets/bd04e92b-2f1d-4da1-9190-3db121ad9e5c" />
+
+
+
+
+
 KOMENTAR: Koda deluje kot je potrebno imela sva nekaj težav s kodo ampak sva jih popravila. Debug mode je deloval zato ni bilo potrebno narediti 7. točke.
